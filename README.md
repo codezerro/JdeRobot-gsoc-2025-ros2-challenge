@@ -2,4 +2,6 @@
 
 ### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YuST_uika1c?si=LVADzaDyp7YGnTA5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/YuST_uika1c/maxresdefault.jpg)](https://youtu.be/YuST_uika1c)
+
+### [JdeRobot - ROS2 Challenge (GSOC - 2025)](https://youtu.be/YuST_uika1c)
